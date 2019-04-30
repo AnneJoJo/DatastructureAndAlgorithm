@@ -1,1 +1,1 @@
-# Learning road map for data structure and algorithm
+# Road map for learning data structure and algorithm
